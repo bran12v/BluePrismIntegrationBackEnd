@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluePrismIntegrationApp", "BluePrismIntegrationApp\BluePrismIntegrationApp.csproj", "{70AD9E7A-A3A6-47C8-B3D6-0FB6092B0AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70AD9E7A-A3A6-47C8-B3D6-0FB6092B0AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AD9E7A-A3A6-47C8-B3D6-0FB6092B0AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AD9E7A-A3A6-47C8-B3D6-0FB6092B0AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AD9E7A-A3A6-47C8-B3D6-0FB6092B0AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {344E3052-D6E0-451B-9CCF-B62BE4BDCF44}
+	EndGlobalSection
+EndGlobal
